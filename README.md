@@ -1,19 +1,20 @@
 # cloneMediumReactJS
 
-> ***/pages***<br>
->> globalFeed.js
->>> ***/components***
->>>> feed.js
->
->> articles.js  
->> authentication.js
+> **/node_modules**
+>> ***/pages***<br>
+>>> globalFeed.js
+>>>> ***/components***
+>>>>> feed.js
+>>
+>>> articles.js  
+>>> authentication.js
 
-> ***/components***  
->> topbar.js<br/>
->> pagination.js<br/>
->> feed.js
+>> ***/components***  
+>>> topbar.js<br/>
+>>> pagination.js<br/>
+>>> feed.js
 
-> ***/hooks***
->> useFetch.js
+>> ***/hooks***
+>>> useFetch.js
 
-> routes.js
+>> routes.js
