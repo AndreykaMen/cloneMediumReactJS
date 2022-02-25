@@ -1,5 +1,7 @@
 # cloneMediumReactJS
 
+Шаблон проекта: https://angular.realworld.io/
+
 > **/node_modules**
 >> ***/pages***<br>
 >>> globalFeed.js
