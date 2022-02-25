@@ -8,9 +8,9 @@
 >> articles.js  
 >> authentication.js
 
-> ***/components***
->> topbar.js
->> pagination.js
+> ***/components***  
+>> topbar.js<br/>
+>> pagination.js<br/>
 >> feed.js
 
 > ***/hooks***
