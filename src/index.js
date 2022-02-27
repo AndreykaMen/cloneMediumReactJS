@@ -6,10 +6,12 @@ import TopBar from "components/topbar";
 
 const App = () => {
   return (
-      <BrowserRouter>
-        <TopBar/>
-        <Routes/>
-      </BrowserRouter>
+      <div>
+        <BrowserRouter>
+          <TopBar/>
+          <Routes/>
+        </BrowserRouter>
+      </div>
   );
 };
 
